@@ -1,0 +1,15 @@
+﻿<Window x:Class="desktestrecord.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:desktestrecord"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="DemoTriggerEvent" Content="Demo Trigger Event" HorizontalAlignment="Left" Margin="186,44,0,0" VerticalAlignment="Top" Width="141" Height="53" Click="DemoTriggerEvent_Click"/>
+        <Button x:Name="Stop" Content="Stop" HorizontalAlignment="Left" Margin="186,245,0,0" VerticalAlignment="Top" Width="141" Height="54" Click="Stop_Click"/>
+        <Button x:Name="RecordLiveVideo" Content="Record Live video" HorizontalAlignment="Left" VerticalAlignment="Top" Width="141" Margin="186,143,0,0" Height="50" Click="RecordLiveVideo_Click"/>
+
+    </Grid>
+</Window>

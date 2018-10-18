@@ -1,0 +1,14 @@
+C:\Users\Provision\documents\visual studio 2015\Projects\desktestrecord\desktestrecord\bin\Release\desktestrecord.exe.config
+C:\Users\Provision\documents\visual studio 2015\Projects\desktestrecord\desktestrecord\bin\Release\desktestrecord.exe
+C:\Users\Provision\documents\visual studio 2015\Projects\desktestrecord\desktestrecord\bin\Release\desktestrecord.pdb
+C:\Users\Provision\documents\visual studio 2015\Projects\desktestrecord\desktestrecord\obj\Release\MainWindow.g.cs
+C:\Users\Provision\documents\visual studio 2015\Projects\desktestrecord\desktestrecord\obj\Release\App.g.cs
+C:\Users\Provision\documents\visual studio 2015\Projects\desktestrecord\desktestrecord\obj\Release\desktestrecord_MarkupCompile.cache
+C:\Users\Provision\documents\visual studio 2015\Projects\desktestrecord\desktestrecord\obj\Release\desktestrecord_MarkupCompile.lref
+C:\Users\Provision\documents\visual studio 2015\Projects\desktestrecord\desktestrecord\obj\Release\MainWindow.baml
+C:\Users\Provision\documents\visual studio 2015\Projects\desktestrecord\desktestrecord\obj\Release\desktestrecord.g.resources
+C:\Users\Provision\documents\visual studio 2015\Projects\desktestrecord\desktestrecord\obj\Release\desktestrecord.Properties.Resources.resources
+C:\Users\Provision\documents\visual studio 2015\Projects\desktestrecord\desktestrecord\obj\Release\desktestrecord.csproj.GenerateResource.Cache
+C:\Users\Provision\documents\visual studio 2015\Projects\desktestrecord\desktestrecord\obj\Release\desktestrecord.exe
+C:\Users\Provision\documents\visual studio 2015\Projects\desktestrecord\desktestrecord\obj\Release\desktestrecord.pdb
+C:\Users\Provision\documents\visual studio 2015\Projects\desktestrecord\desktestrecord\obj\Release\desktestrecord.csprojResolveAssemblyReference.cache
